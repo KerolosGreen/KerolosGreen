@@ -34,7 +34,7 @@
 
 <h2>🌐 Connect With Me</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/kerolos-safwat/" target="_blank">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/kerolos-safwat-gr/" target="_blank">LinkedIn</a></li>
   <li><a href="https://kerolos-portfolio.vercel.app/" target="_blank">Portfolio</a></li>
 </ul>
 
