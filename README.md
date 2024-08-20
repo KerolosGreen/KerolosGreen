@@ -30,12 +30,7 @@
   <li><a href="https://wasalny.vercel.app/" target="_blank">Wasalny Web App</a> - An application designed to help Egyptian metro passengers reach their destinations efficiently.</li>
 </ol>
 
-<h2>📈 Current Projects</h2>
-<ul>
-  <li><a href="#">StudentsPal</a> - An AI-powered tool for generating questions and quizzes from PDFs to help students test their knowledge.</li>
-  <li><a href="#">Car Price Prediction</a> - A predictive model that estimates car prices based on various factors to aid in buying and selling decisions.</li>
-  <li><a href="#">Personalized Fitness App</a> - An app that offers personalized fitness coaching and posture correction to enhance workout benefits and prevent injuries.</li>
-</ul>
+ 
 
 <h2>🌐 Connect With Me</h2>
 <ul>
