@@ -40,7 +40,7 @@
 
 <h2>📧 Contact</h2>
 <p>
-  Feel free to reach out to me via email at <a href="mailto:kerolos@example.com">kerolos@example.com</a> for collaboration opportunities or any inquiries.
+  Feel free to reach out to me via email at <a href="mailto:kerolossafwat41@gmail.com">kerolossafwat41@gmail.com</a> for collaboration opportunities or any inquiries.
 </p>
 
 <p>Thanks for visiting my profile! 😊</p>
