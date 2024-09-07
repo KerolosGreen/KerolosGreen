@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Kerolos Safwat  👋</h1>
-
+<img src="https://raw.githubusercontent.com/KerolosGreen/myportfolio/main/public/public%20assets/Github-Kerolos_ReadmeImage.png"/>
 <h2>👨‍💻 About Me</h2>
 <p>
   I am a passionate front-end developer specializing in React.js with a strong background in creating dynamic and user-friendly web applications. I have a proven track record of delivering high-quality projects and am always eager to tackle new challenges and expand my skill set.
